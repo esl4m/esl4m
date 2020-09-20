@@ -6,8 +6,8 @@ I've +10 years working experience in small, medium, corporate and government env
 
 #### Previous companies:
 - **IBM Egypt** --> Senior / Lead Software Engineer.
-- **MSAD** (Ministry of State for Administrative Development) now (MOPMAR) --> Software Engineer
-- **MSAD** (Ministry of State for Administrative Development) now (MOPMAR) --> OpenSource & Linux Instructor.
+- **MSAD** (Ministry of State for Administrative Development) now (**MOPMAR**) --> Software Engineer
+- **MSAD** (Ministry of State for Administrative Development) now (**MOPMAR**) --> OpenSource & Linux Instructor.
 - **Makkah Province (Jeddah Government)** --> Software Engineer (Linux Admin - PHP developer)
 - **TEData (WE)** --> VAS Engineer (Software Engineer "python")
 
