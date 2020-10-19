@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 My name is Islam .. Lead Software Engineer (Hands-on Developer; still writes code and loves challenges)
+- Getting things done.
+- Agile methodology & DevOps practitioners / advocate.
+- Applying best practices and code review , translate project requirements into tasks.
+
+..
 
 I've +10 years working experience in small, medium, corporate and government environments.
 
