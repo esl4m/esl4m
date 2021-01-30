@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Islam .. Lead Software Engineer (Hands-on Developer; still writes code and loves challenges)
+My name is Islam .. Lead Software Engineer (Hands-on Developer; who still writes code and loves challenges)
 - Getting things done.
 - Agile methodology & DevOps practitioners / advocate.
 - Applying best practices and code review , translate project requirements into tasks.
@@ -9,12 +9,13 @@ My name is Islam .. Lead Software Engineer (Hands-on Developer; still writes cod
 
 I've +10 years working experience in small, medium, corporate and government environments.
 
-#### Previous companies:
+#### Experince:
+- **ExtraVerd Oy** "currently"--> Lead Software Engineer - Python / Ionic (angular) Developer.
 - **IBM Egypt** --> Senior / Lead Software Engineer.
 - **MSAD** (Ministry of State for Administrative Development) now (**MOPMAR**) --> Software Engineer
 - **MSAD** (Ministry of State for Administrative Development) now (**MOPMAR**) --> OpenSource & Linux Instructor.
 - **Makkah Province (Jeddah Government)** --> Software Engineer (Linux Admin - PHP developer)
-- **TEData (WE)** --> VAS Engineer (Software Engineer "python")
+- **TEData** now **(WE)** --> VAS Engineer (Software Engineer "python")
 
 ...
 
