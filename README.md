@@ -47,5 +47,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: If you want to make everybody happy, Don't be a leader. Sell ice cream !
 -->
 
+...
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=esl4m&show_icons=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esl4m&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&style=for-the-badge&logoColor=white"/>](https://www.linkedin.com/in/esl4m)
