@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=esl4m&show_icons=true&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esl4m&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esl4m&layout=compact&theme=dark)
 
 
 
