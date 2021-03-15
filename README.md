@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: If you want to make everybody happy, Don't be a leader. Sell ice cream !
 -->
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&style=for-the-badge&logoColor=white"/>](https://www.linkedin.com/in/esl4m)
