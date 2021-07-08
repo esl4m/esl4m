@@ -10,7 +10,8 @@ My name is Islam .. Lead Software Engineer (Hands-on Developer; who still writes
 I've +10 years working experience in small, medium, corporate and government environments.
 
 #### Experince:
-- **ExtraVerd Oy** "currently"--> Lead Software Engineer - Python / Ionic (angular) Developer.
+- **Outliant** --> "currently" Technical Consultant / Lead Python Engineer. 
+- **ExtraVerd Oy** --> Lead Software Engineer - Python / Ionic (angular) Developer.
 - **IBM Egypt** --> Senior / Lead Software Engineer.
 - **MSAD** (Ministry of State for Administrative Development) now (**MOPMAR**) --> Software Engineer
 - **MSAD** (Ministry of State for Administrative Development) now (**MOPMAR**) --> OpenSource & Linux Instructor.
