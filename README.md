@@ -25,8 +25,7 @@ I've +12 years working experience in small, medium, corporate and government env
 - 🌱 I’m currently learning : (Go)
 
 - 📫 How to reach me:
-  - Job offer: `me[@]esl4m[dot]com` .
-  - e-learning: `contact[@]menat[dot]online` . 
+  - Job offer / consultations / e-learning : `me[@]esl4m[dot]com` .
 
 ...
 
