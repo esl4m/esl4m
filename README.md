@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Islam .. Lead Software Engineer (Hands-on Developer; who still writes code and loves challenges)
+My name is Islam .. Engineering Manager (who still writes code and loves challenges)
 - Getting things done.
 - Agile methodology & DevOps practitioners / advocate.
 - Applying best practices and code review , translate project requirements into tasks.
