@@ -9,7 +9,7 @@ My name is Islam .. Engineering Manager (who still writes code and loves challen
 
 I've +12 years working experience in small, medium, corporate and government environments.
 
-#### Experince:
+#### Work Experience:
 - **Outliant** --> "currently" Engineering Manager. 
 - **ExtraVerd Oy** --> Lead Software Engineer - Python / Ionic (angular) Developer.
 - **IBM Egypt** --> Senior / Lead Software Engineer.
