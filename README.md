@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-My name is Islam .. Engineering Manager (who still writes code and loves challenges)
+My name is Islam .. Sr. Engineering Manager
+
+I've +12 years working experience in small, medium, corporate and government environments.
+
+What I'm doing:
 - Getting things done.
 - Agile methodology & DevOps practitioners / advocate.
 - Applying best practices and code review , translate project requirements into tasks.
 
 ..
 
-I've +12 years working experience in small, medium, corporate and government environments.
-
 #### Work Experience:
-- **Outliant** --> "currently" Engineering Manager. 
+- **Outliant** --> "currently" Sr. Engineering Manager. 
 - **ExtraVerd Oy** --> Lead Software Engineer - Python / Ionic (angular) Developer.
 - **IBM Egypt** --> Senior / Lead Software Engineer.
 - **MSAD** (Ministry of State for Administrative Development) (**MOPMAR**) --> Software Engineer & "OpenSource, Linux" Instructor.
