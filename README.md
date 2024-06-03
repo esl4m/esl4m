@@ -12,7 +12,7 @@ What I'm doing:
 ..
 
 #### Work Experience:
-- **Outliant** --> "currently" Sr. Engineering Manager. 
+- **Outliant** --> Sr. Engineering Manager. 
 - **ExtraVerd Oy** --> Lead Software Engineer - Python / Ionic (angular) Developer.
 - **IBM Egypt** --> Senior / Lead Software Engineer.
 - **MSAD** (Ministry of State for Administrative Development) (**MOPMAR**) --> Software Engineer & "OpenSource, Linux" Instructor.
